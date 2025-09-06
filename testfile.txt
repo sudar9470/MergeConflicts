@@ -1,4 +1,6 @@
 created a simple test file
 learning concept of pull request
-name : susun
-city: valiyoor
+example:
+name : vimal
+city: nadukallur
+
