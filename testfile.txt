@@ -1,4 +1,6 @@
 created a simple test file
 learning concept of pull request
-name : sam
-city: Thootukudi
+example:
+name : vimal
+city: nadukallur
+
