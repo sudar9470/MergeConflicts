@@ -1,4 +1,4 @@
 created a simple test file
 learning concept of pull request
-name : Sudar
-city: Tvl
+name : sam
+city: Thootukudi
